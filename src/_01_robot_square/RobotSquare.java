@@ -18,11 +18,11 @@ Robot Pyare = new Robot();
 			Pyare.penDown();
 
         // 6. Make the robot move as fast as possible
-			Pyare.setSpeed(100);
+			Pyare.setSpeed(900000000);
 
         // 5. Do everything below here 4 times
 			
-			for (int i = 0; i < 92; i++) {
+			for (int i = 8; i < 92; i++) {
 				
 			
 
